@@ -1,0 +1,17 @@
+# Node.js
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Python/Django
+backend/__pycache__/
+backend/*.py[cod]
+backend/venv/
+backend/env/
+backend/*.sqlite3
+backend/.env
+
+# Général
+.DS_Store
+.vscode/
+.idea/
